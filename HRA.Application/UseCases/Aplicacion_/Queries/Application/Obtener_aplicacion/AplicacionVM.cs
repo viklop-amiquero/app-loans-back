@@ -1,0 +1,10 @@
+﻿using HRA.Application.Common.Models;
+using MediatR;
+
+namespace HRA.Application.UseCases.Aplicacion_.Queries.Application.Obtener_aplicacion
+{
+    public record class AplicacionVM : IRequest<Iresult>
+    {
+        public int I_APPLICATION_ID { get; set; }
+    }
+}
