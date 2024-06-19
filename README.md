@@ -1,20 +1,13 @@
-#Introducción 
-TODO: Proporcione una breve introducción del proyecto. En esta sección se deben explicar los objetivos o los motivos del proyecto. 
+Loan and Collection Web API
+-----------------------------------
 
-# Tareas iniciales
-TODO: Guíe a los usuarios para que apliquen el código a su sistema propio sin ningún problema. En esta sección se puede hablar sobre:
-1.	El proceso de instalación
-2.	Las dependencias de software
-3.	Las últimas versiones
-4.	Las referencias de API
+Welcome to the Loan and Collection Web API project! This repository contains a .NET Core Web API designed for managing loans, tracking payments, and facilitating collections. It's ideal for financial institutions and lending platforms.
 
-# Compilación y prueba
-TODO: Describa y muestre cómo compilar el código y ejecutar las pruebas. 
+Technology Stack
+Backend: .NET Core Web API
+Database: SQL Server
+Authentication: JWT (JSON Web Tokens)
+Documentation: Swagger
 
-# Contribución
-TODO: Explique cómo pueden contribuir otros usuarios y desarrolladores a la mejora del código. 
-
-Si quiere obtener más información sobre cómo crear archivos Léame descriptivos, consulte las siguientes [directrices](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). También puede inspirarse en los archivos Léame siguientes:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Getting Started
+Clone the repository, install dependencies, set up your database connection, and start the server to begin using the API.
